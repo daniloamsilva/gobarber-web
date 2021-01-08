@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { AuthProvider } from './context/AuthContext';
+import { AuthProvider } from './hooks/AuthContext';
 
 // import SignUp from './pages/SignUp';
 import SignIn from './pages/SignIn';
